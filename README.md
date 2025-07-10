@@ -12,7 +12,7 @@
 
 以下是一个使用实例：
 
-![](example.png)
+![](./example.png)
 
 # 更新历史
 
